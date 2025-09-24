@@ -13,9 +13,6 @@ Traffic signs play a crucial role in maintaining road safety. This project aims 
 
 The solution can be extended for real-time traffic sign detection in self-driving cars or driver assistance systems.
 
----
-
-##  Project Structure
 
 ---
 
